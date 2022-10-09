@@ -1,6 +1,6 @@
 # Text Editor 
 
-## Keybinds:  
+## Keybinds  
 ```
 ←↑→↓           navigation
 ctrl+s         save file and specify path
@@ -14,6 +14,6 @@ ctrl+d         load dictionary and specify path
 ctrl+x         quit
 ```
 
-## Spelling Suggestions: 
-Located at the bottom of the window when cursor is over highlighed word 
+## Spelling Suggestions 
+Located at the bottom of the window when cursor is over misspelled (highlighted) word 
 ![img of text editor](/../screenshots/text-editor-demo.jpg?raw=true)
