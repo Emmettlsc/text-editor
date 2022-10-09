@@ -1,6 +1,7 @@
 # Text Editor 
 
 ## Keybinds:  
+'''
 ←↑→↓           navigation
 ctrl+s         save file and specify path
 home           move cursor to front of line 
@@ -11,6 +12,7 @@ ctrl+l         load or create new file
 ctrl+z         undo
 ctrl+d         load dictionary and specify path
 ctrl+x         quit
+'''
 
 ## Spelling Suggestions: 
 Located at the bottom of the window when cursor is over highlighed word 
