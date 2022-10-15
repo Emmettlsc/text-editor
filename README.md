@@ -14,6 +14,7 @@ ctrl+d         load dictionary and specify path
 ctrl+x         quit
 ```
 
+
 ## Spelling Suggestions 
 Located at the bottom of the window when cursor is over misspelled (highlighted) word 
 ![img of text editor](/../screenshots/text-editor-demo2.jpg?raw=true)
